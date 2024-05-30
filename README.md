@@ -1,2 +1,2 @@
 # trie_map
-fast search based on string keys
+C++ data structure for fast searching based on string keys
